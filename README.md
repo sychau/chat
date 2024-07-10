@@ -1,9 +1,4 @@
 # s-talk
-CMPT300 Assignment 2 2024-02-23
-CMPT 300 X1 Groups
-CCCCCCCCCCCCCCCCCCCCCCCCCCCCCC
-Henry Chau, syc54
-Ryan Taban, rat2
 
 Use GNU17 instead of ISO C (C99, C11, C17) to access some function e.g. gethostname
 Avoid using ctrl+C or ctrl+D interrupt to allow the program clean up properly
