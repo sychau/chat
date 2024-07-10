@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "pthread.h": "c",
+        "netdb.h": "c",
+        "signal.h": "c",
+        "timings.h": "c",
+        "printer.h": "c",
+        "signaller.h": "c"
+    }
+}
